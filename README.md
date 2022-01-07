@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- i know:
+i know:
     - python 
         - pygame (most prificient)
         - numpy (meh)
@@ -21,7 +21,7 @@
     - C/C++ (i should stop lying)
     
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=emc2356&show_icons=true&theme=merko)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emc2356k&show_icons=true&hide=css&theme=merko)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emc2356&show_icons=true&hide=css&theme=merko)
 
 ## Stats
 
