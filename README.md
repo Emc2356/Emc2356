@@ -11,12 +11,12 @@
 
 i know:  
     - python   
-        - pygame (most prificient)  
-        - numpy (meh)  
-        - numba (yea...)  
-        - PyOpenGL (i need to stop lying)  
+        + pygame (most prificient)  
+        + numpy (meh)  
+        + numba (yea...)  
+        + PyOpenGL (i need to stop lying)  
     - JavaScript (yea... no)  
-        - p5.js (kinda good)  
+        + p5.js (kinda good)  
     - java  
     - C/C++ (i should stop lying)  
     
