@@ -9,16 +9,16 @@
 - ⚡ Fun fact: ...
 -->
 
-i know:
-    - python 
-        - pygame (most prificient)
-        - numpy (meh)
-        - numba (yea...)
-        - PyOpenGL (i need to stop lying)
-    - JavaScript (yea... no)
-        - p5.js (kinda good)
-    - java
-    - C/C++ (i should stop lying)
+i know:  
+    - python   
+        - pygame (most prificient)  
+        - numpy (meh)  
+        - numba (yea...)  
+        - PyOpenGL (i need to stop lying)  
+    - JavaScript (yea... no)  
+        - p5.js (kinda good)  
+    - java  
+    - C/C++ (i should stop lying)  
     
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=emc2356&show_icons=true&theme=merko)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emc2356&show_icons=true&hide=css&theme=merko)
