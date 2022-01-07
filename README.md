@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,10 +8,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/natterstefan/natterstefan">
+<a href="https://github.com/emc2356/emc2356">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emc2356&hide=java,html&title_color=000000&text_color=000000" />
 </a>
 
-<a href="https://github.com/natterstefan/natterstefan">
+<a href="https://github.com/emc2356/emc2356">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=emc2356&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="natterstefan's GitHub Stats" />
 </a>
