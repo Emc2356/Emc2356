@@ -11,8 +11,14 @@ blah blah blah...
     - java  
     - C/C++ (I should stop lying)  
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=emc2356&show_icons=true&theme=merko)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emc2356&show_icons=true&hide=css&theme=merko)
+<a href="https://www.github.com/emc2356">
+https://github-readme-stats.vercel.app/api/top-langs/?username=emc2356&show_icons=true&hide=css&theme=merko
+</a>
+<a href="https://www.github.com/emc2356">
+https://github-readme-stats.vercel.app/api?username=emc2356&show_icons=true&theme=merko
+</a>
+[comment]: <> (![Github Stats](https://github-readme-stats.vercel.app/api?username=emc2356&show_icons=true&theme=merko))
+[comment]: <> (![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emc2356&show_icons=true&hide=css&theme=merko))
 
 ## Stats
 
