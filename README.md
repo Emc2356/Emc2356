@@ -1,5 +1,3 @@
-blah blah blah...
-
 Hello, just another programmer. I started programming at 2019 with Python, since then i have learnt C/C++ and other similar C style programming languages.  
 Recently i have started learning some SIMD instruction sets like AVX and SSE.
 
